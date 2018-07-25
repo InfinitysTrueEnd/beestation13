@@ -1,0 +1,79 @@
+"aa" = (/turf/template_noop,/area/template_noop)
+"ab" = (/obj/structure/shuttle/engine/propulsion/burst/left{dir = 8},/turf/open/space,/area/shuttle/abandoned)
+"ac" = (/obj/structure/shuttle/engine/heater{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/open/floor/plating/airless,/area/shuttle/abandoned)
+"ae" = (/turf/closed/wall/mineral/titanium,/area/shuttle/abandoned)
+"af" = (/obj/machinery/porta_turret/centcom_shuttle,/turf/closed/wall/mineral/titanium,/area/shuttle/abandoned)
+"ag" = (/obj/structure/shuttle/engine/propulsion/burst/right{dir = 8},/turf/open/space,/area/shuttle/abandoned)
+"ah" = (/obj/structure/table/glass,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"ai" = (/turf/closed/wall/mineral/titanium/nodiagonal,/area/shuttle/abandoned)
+"aj" = (/obj/machinery/computer/arcade/orion_trail,/obj/machinery/light{dir = 1},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"ak" = (/obj/machinery/computer/arcade/battle,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"al" = (/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"am" = (/obj/machinery/door/airlock/command/glass,/obj/structure/fans/tiny,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"an" = (/obj/machinery/porta_turret/centcom_shuttle,/turf/closed/wall/mineral/titanium/overspace,/area/shuttle/abandoned)
+"ao" = (/obj/machinery/power/smes,/obj/machinery/light{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"ap" = (/obj/machinery/power/rtg,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aq" = (/obj/machinery/door/airlock/command/glass,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"ar" = (/obj/machinery/vending/boozeomat/all_access,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"as" = (/obj/machinery/light{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"at" = (/obj/machinery/mineral/ore_redemption,/obj/structure/fans/tiny,/obj/machinery/door/poddoor/shutters{id = "XCCsec3"; name = "XCC Checkpoint 3 Shutters"},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"au" = (/obj/machinery/power/smes,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"av" = (/obj/vehicle/ridden/atv,/obj/item/key,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aw" = (/obj/structure/closet/secure_closet/engineering_personal,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"ax" = (/obj/structure/table/glass,/obj/machinery/chem_dispenser/drinks,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"ay" = (/obj/machinery/computer/crew{dir = 4},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"az" = (/obj/machinery/sleeper{dir = 8},/obj/machinery/button/door{id = "XCCsec3"; name = "XCC Shutter 3 Control"; pixel_x = -8; pixel_y = 38},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aA" = (/obj/machinery/rnd/production/protolathe,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aB" = (/obj/machinery/rnd/production/circuit_imprinter,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aC" = (/obj/machinery/computer/rdconsole/core,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aD" = (/obj/machinery/computer/camera_advanced/shuttle_docker/whiteship,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aE" = (/obj/structure/table/glass,/obj/machinery/light{dir = 4},/obj/machinery/telecomms/relay/preset/telecomms,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aF" = (/obj/structure/closet/secure_closet/miner,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aG" = (/obj/machinery/suit_storage_unit/engine,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aH" = (/obj/machinery/vending/wardrobe/jani_wardrobe,/obj/machinery/light{dir = 4},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aI" = (/obj/structure/table/glass,/obj/machinery/chem_dispenser/drinks/beer,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aJ" = (/obj/machinery/light{dir = 4},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aK" = (/obj/machinery/computer/med_data{dir = 4},/obj/machinery/light{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aL" = (/obj/machinery/chem_dispenser/fullupgrade,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aM" = (/obj/machinery/computer/secure_data{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aN" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/fans/tiny,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aO" = (/obj/machinery/autolathe/hacked,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aP" = (/obj/machinery/computer/shuttle/white_ship{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aQ" = (/obj/machinery/light{dir = 4},/obj/machinery/vending/dinnerware,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aR" = (/obj/structure/sink{dir = 8; pixel_x = -12},/obj/machinery/light{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aS" = (/obj/structure/closet/secure_closet/freezer/meat,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aT" = (/obj/structure/closet/secure_closet/CMO,/obj/item/defibrillator,/obj/item/healthanalyzer/advanced,/obj/machinery/light{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aU" = (/obj/machinery/vending/medical,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aV" = (/obj/machinery/modular_computer/console/preset/command{dir = 8},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aW" = (/obj/structure/shuttle/engine/heater{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/closed/wall/mineral/titanium,/area/shuttle/abandoned)
+"aX" = (/obj/machinery/smartfridge,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aY" = (/obj/machinery/computer/operating{dir = 4},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"aZ" = (/obj/structure/table/optable,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"ba" = (/obj/structure/table/glass,/obj/item/storage/backpack/duffelbag/med/surgery,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bb" = (/obj/machinery/rnd/experimentor,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bc" = (/obj/structure/table/glass,/obj/item/instrument/piano_synth,/obj/item/stack/sheet/plasteel/fifty,/obj/item/stack/sheet/metal/fifty,/obj/item/stack/sheet/metal/fifty,/obj/item/stack/sheet/metal/fifty,/obj/item/stack/sheet/glass/fifty,/obj/item/stack/sheet/glass/fifty,/obj/item/stack/sheet/mineral/titanium/fifty,/obj/item/stack/sheet/mineral/titanium/fifty,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bd" = (/obj/machinery/computer/communications{dir = 1},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"be" = (/obj/structure/table/glass,/obj/item/gps,/obj/machinery/light{dir = 4},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bf" = (/obj/structure/table/glass,/obj/item/reagent_containers/food/condiment/flour,/obj/item/reagent_containers/food/condiment/flour,/obj/item/reagent_containers/food/condiment/flour,/obj/item/reagent_containers/food/condiment/flour,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/milk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/soymilk,/obj/item/reagent_containers/food/condiment/sugar,/obj/item/reagent_containers/food/condiment/sugar,/obj/item/reagent_containers/food/condiment/enzyme,/obj/item/reagent_containers/food/condiment/peppermill,/obj/item/reagent_containers/food/condiment/saltshaker,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bg" = (/obj/machinery/microwave,/obj/structure/table/glass,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bi" = (/obj/machinery/computer/libraryconsole,/obj/structure/table/glass,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bj" = (/obj/structure/bookcase/random,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bk" = (/obj/structure/bookcase/random,/obj/machinery/light,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bl" = (/obj/machinery/vending/wardrobe/sec_wardrobe,/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+"bm" = (/obj/structure/chair/comfy{dir = 4},/turf/open/floor/mineral/titanium,/area/shuttle/abandoned)
+
+(1,1,1) = {"
+aaaaaaabacaiaeafaeaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaagacaeahblajakaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaeaeaeaealalalaeaeaeaeamanaaaaaaaaaaaaaaaaaaaaaaaa
+abacafaeaoapaeaeaeaqaealaraeasaeaeataeaeaeaeaeaeaeaeaeaa
+agacaeaeauavaeawalalaealaxaeaqaeayalazaeaAaBaCaeaDaEaian
+aaaaaaaeaeaFaeaGalaHaeasaIaeaJaeaKalaLaealalaJaealaMaNaa
+aaaaaaaaamalaqalalalaqalalaqalaqalalalaqalaOalaqbmaPaNaa
+aaaaaaaeaeaFaeaGalaQaeaRaSaeaJaeaTalaUaealalaJaealaVaNaa
+abaWaeaeauavaeawalalaealaXaeaqaiaYaZbaaebbalbcaebdbeaian
+agaWafaeaoapaeaeaeaqaebfbgaeasaeaeaeaeaeaeaeaeaeaeaeaeaa
+aaaaaaaeaeaeaebialalaeaeaeaeamanaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabacaebjbjbkbjaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaagacaeaeafaeaeaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
